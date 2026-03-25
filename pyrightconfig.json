@@ -1,0 +1,10 @@
+{
+  "include": [
+    "*.py"
+  ],
+  "extraPaths": [
+    "."
+  ],
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false
+}
